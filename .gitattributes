@@ -1,0 +1,20 @@
+# Metin dosyalari depoda LF olarak saklanir
+* text=auto
+
+# Unity YAML dosyalari
+*.unity    text eol=lf
+*.prefab   text eol=lf
+*.asset    text eol=lf
+*.meta     text eol=lf
+*.mat      text eol=lf
+*.controller text eol=lf
+*.anim     text eol=lf
+
+# Ikili dosyalar
+*.png binary
+*.jpg binary
+*.ttf binary
+*.mp3 binary
+*.wav binary
+*.mp4 binary
+*.apk binary

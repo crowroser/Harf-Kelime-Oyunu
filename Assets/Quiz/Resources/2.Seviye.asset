@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 2.Seviye
+  m_EditorClassIdentifier: 
+  categoryName: 2.Seviye
+  questions:
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 1296036fc1a274446bd72d0d03f0fb4c, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - al
+    - an
+    - ana
+    - anla
+    correctAns: anla
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: b84110756dfc0604cb9179659af5c30f, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - anla
+    - ali
+    - ana
+    - anne
+    correctAns: anne
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 3bdc3a84ff2cba644a29a1d972f1e7f2, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - eke
+    - ene
+    - enle
+    - ekle
+    correctAns: ekle
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: d603c27d961fb944bb62bbbc25b4756f, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - elek
+    - enek
+    - enik
+    - ele
+    correctAns: elek
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: e4002fd31004c104e9a15808faaf31d2, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ele
+    - elle
+    - enle
+    - ekle
+    correctAns: elle
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: d8e4b312c5b385f4c93071d38fa8e025, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - elli
+    - elle
+    - ellilik
+    - elekle
+    correctAns: elli
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: de6d43e5879f5ee4ba34acee712e553f, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - enik
+    - ene
+    - enle
+    - elle
+    correctAns: enik
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 2f6bf97c26693344aa54c832446d69e9, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ilan
+    - inal
+    - ile
+    - ikile
+    correctAns: ilan
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 8b30cac0769c697438f37dd1367e1012, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ilke
+    - ile
+    - ikile
+    - inle
+    correctAns: ilke
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 2e557e0a10538254b8d8ea5549605998, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ilan
+    - inal
+    - ile
+    - ikile
+    correctAns: inal
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 39f64c7a1d8ea434a958d83791f613b9, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - inan
+    - inal
+    - ilan
+    - ikile
+    correctAns: inan
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 7364c2e700dc3c84fb9541a722cb8dfa, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - inek
+    - inle
+    - ile
+    - ikile
+    correctAns: inek
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 43785a4ca6309174aad67fc639136907, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - kaan
+    - kalan
+    - kanal
+    - kalk
+    correctAns: kaan
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: f8d0ccab008a35e46841e60cafdb08b5, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - kale
+    - kalk
+    - kanka
+    - kalkan
+    correctAns: kale
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 671df8c9261d57346b333a17c3504e87, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - kalk
+    - kal
+    - kalkan
+    - kanka
+    correctAns: kalk
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 721226dac07b4c141b90cc08d1539cfc, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - kene
+    - kin
+    - kil
+    - kalk
+    correctAns: kene
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 75171436ddd803e4485c07e5d8952fc2, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - la
+    - le
+    - li
+    - lale
+    correctAns: lale
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 54d5f08865396894386e6fdb30cf0eb9, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - la
+    - le
+    - leke
+    - lale
+    correctAns: leke
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: d1c43502ca7c84a4b9014c9bfb910423, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - la
+    - le
+    - li
+    - lila
+    correctAns: lila
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: 0d3fd5c01b2d89c4e86e94cf4a8edab8, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - na
+    - nane
+    - nail
+    - nil
+    correctAns: nail
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: e77b7eb377a836e4f94447ebd78188cf, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - na
+    - ne
+    - nane
+    - nalan
+    correctAns: nane
+  - questionInfo: "Duydu\u011Funuz Bu Ses A\u015Fa\u011F\u0131dakilerden Hangisidir?"
+    questionType: 2
+    audioClip: {fileID: 8300000, guid: a39874750bf6b52489691b430bd6fdf8, type: 3}
+    questionImage: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ni
+    - nil
+    - nane
+    - nine
+    correctAns: nine
